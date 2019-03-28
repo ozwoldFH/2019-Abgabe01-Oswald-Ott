@@ -12,7 +12,11 @@ public class CalculatorImpl implements Calculator {
     }
 
     public int sum() {
-        return 0;
+        int sum = 0;
+        for (int number : list) {
+            sum += number;
+        }
+        return sum;
     }
 
     public int getMaximum() {

@@ -20,7 +20,7 @@ public class Main {
 		System.out.println("highest number: " + calc.getMaximum());
 
 		// output sum of all numbers
-
+		System.out.println("sum of all numbers: " + calc.sum());
 	}
 
 }
