@@ -1,6 +1,7 @@
 package at.fhj.iit;
 
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class CalculatorImpl implements Calculator {
 
@@ -19,7 +20,7 @@ public class CalculatorImpl implements Calculator {
     }
 
     public int getMinimum() {
-        return 0;
+        return Collections.min(list);
     }
 
     public void addValue(int value) {

@@ -14,7 +14,8 @@ public class Main {
 		// add other integers
 		
 		// output lowest number 
-		
+		System.out.println("lowest number: " + calc.getMinimum());
+
 		// output highest number
 		
 		// output sum of all numbers
