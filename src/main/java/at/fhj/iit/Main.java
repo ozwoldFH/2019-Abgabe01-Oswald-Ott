@@ -19,8 +19,7 @@ public class Main {
         // output highest number
         System.out.println("highest number: " + calc.getMaximum());
 
-        // output sum of all numbers
-        System.out.println("sum: " + calc.sum());
-    }
-
+		// output sum of all numbers
+		System.out.println("sum of all numbers: " + calc.sum());
+	}
 }

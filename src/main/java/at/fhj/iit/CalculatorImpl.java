@@ -14,8 +14,8 @@ public class CalculatorImpl implements Calculator {
     public int sum() {
         int sum = 0;
 
-        for (int i = 0; i < list.size(); i++) {
-            sum += list.get(i);
+        for (int number : list) {
+            sum += number;
         }
 
         return sum;
