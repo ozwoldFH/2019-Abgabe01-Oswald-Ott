@@ -1,6 +1,5 @@
 # 2019-Abgabe01-Oswald-Ott
-created by
-  George Oswald
-  Clemens Ott
-overview
-  first task for the course 'configurationmanagement'
+This project is created by George Oswald and Clemens Ott.
+  
+# Overview
+First task for the course 'configurationmanagement'.
